@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Tapiiri</title>
-    <link href="https://github.com/szabodanika/tapiiri/feed.xml" rel="self" />
-    <link href="https://github.com/szabodanika/tapiiri" />
+    <link href="https://pub.szab.eu/feed.xml" rel="self" />
+    <link href="https://pub.szab.eu" />
     <updated>2022-11-26T12:19:25+02:00</updated>
     <author>
         <name>Tapiiri Admin</name>
     </author>
-    <id>https://github.com/szabodanika/tapiiri</id>
+    <id>https://pub.szab.eu</id>
 
     <entry>
         <title>Test Post</title>
         <author>
             <name>Tapiiri Admin</name>
         </author>
-        <link href="https://github.com/szabodanika/tapiiri/test-post.html"/>
-        <id>https://github.com/szabodanika/tapiiri/test-post.html</id>
+        <link href="https://pub.szab.eu/test-post.html"/>
+        <id>https://pub.szab.eu/test-post.html</id>
 
         <updated>2022-11-26T12:19:25+02:00</updated>
             <summary>
