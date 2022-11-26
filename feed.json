@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tapiiri",
+    "description": "",
+    "home_page_url": "https://github.com/szabodanika/tapiiri",
+    "feed_url": "https://github.com/szabodanika/tapiiri/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tapiiri Admin"
+    },
+    "items": [
+        {
+            "id": "https://github.com/szabodanika/tapiiri/test-post.html",
+            "url": "https://github.com/szabodanika/tapiiri/test-post.html",
+            "title": "Test Post",
+            "summary": "Hello, this is a test post on my website :-)",
+            "content_html": "<p>Hello, this is a test post on my website :-)</p>\n",
+            "author": {
+                "name": "Tapiiri Admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-26T12:19:25+02:00",
+            "date_modified": "2022-11-26T12:19:25+02:00"
+        }
+    ]
+}
