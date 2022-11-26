@@ -3,29 +3,167 @@
     <title>Tapiiri</title>
     <link href="https://pub.szab.eu/feed.xml" rel="self" />
     <link href="https://pub.szab.eu" />
-    <updated>2022-11-26T12:19:25+02:00</updated>
+    <updated>2022-11-26T14:44:23+02:00</updated>
     <author>
         <name>Tapiiri Admin</name>
     </author>
     <id>https://pub.szab.eu</id>
 
     <entry>
-        <title>Test Post</title>
+        <title>Contact</title>
+        <author>
+            <name>Tapiiri Admin</name>
+        </author>
+        <link href="https://pub.szab.eu/contact.html"/>
+        <id>https://pub.szab.eu/contact.html</id>
+            <category term="Main Pages"/>
+
+        <updated>2022-11-26T13:33:20+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Welcome to Tapiiri</title>
+        <author>
+            <name>Tapiiri Admin</name>
+        </author>
+        <link href="https://pub.szab.eu/front-page.html"/>
+        <id>https://pub.szab.eu/front-page.html</id>
+            <category term="Main Pages"/>
+
+        <updated>2022-11-26T14:11:51+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello, welcome to Tapiiri's website :-) Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello, welcome to Tapiiri's website :-)</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Gallery</title>
+        <author>
+            <name>Tapiiri Admin</name>
+        </author>
+        <link href="https://pub.szab.eu/gallery.html"/>
+        <id>https://pub.szab.eu/gallery.html</id>
+            <category term="Main Pages"/>
+
+        <updated>2022-11-26T14:44:23+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p> </p>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://pub.szab.eu/media/posts/5/gallery/DSC03151-Large.jpeg" data-size="1280x855"><img loading="lazy" src="https://pub.szab.eu/media/posts/5/gallery/DSC03151-Large-thumbnail.webp" alt="" width="720" height="481"></a></figure>
+<figure class="gallery__item"><a href="https://pub.szab.eu/media/posts/5/gallery/DSC02960-Large.jpeg" data-size="1280x855"><img loading="lazy" src="https://pub.szab.eu/media/posts/5/gallery/DSC02960-Large-thumbnail.webp" alt="" width="720" height="481"></a></figure>
+<figure class="gallery__item"><a href="https://pub.szab.eu/media/posts/5/gallery/DSC02974-Large.jpeg" data-size="1280x855"><img loading="lazy" src="https://pub.szab.eu/media/posts/5/gallery/DSC02974-Large-thumbnail.webp" alt="" width="720" height="481"></a></figure>
+<figure class="gallery__item"><a href="https://pub.szab.eu/media/posts/5/gallery/DSC03195-Large.jpeg" data-size="1280x1024"><img loading="lazy" src="https://pub.szab.eu/media/posts/5/gallery/DSC03195-Large-thumbnail.webp" alt="" width="720" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://pub.szab.eu/media/posts/5/gallery/DSC03216-Large.jpeg" data-size="1280x855"><img loading="lazy" src="https://pub.szab.eu/media/posts/5/gallery/DSC03216-Large-thumbnail.webp" alt="" width="720" height="481"></a></figure>
+<figure class="gallery__item"><a href="https://pub.szab.eu/media/posts/5/gallery/DSC02989-Large.jpeg" data-size="1280x855"><img loading="lazy" src="https://pub.szab.eu/media/posts/5/gallery/DSC02989-Large-thumbnail.webp" alt="" width="720" height="481"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Events</title>
+        <author>
+            <name>Tapiiri Admin</name>
+        </author>
+        <link href="https://pub.szab.eu/events.html"/>
+        <id>https://pub.szab.eu/events.html</id>
+            <category term="Main Pages"/>
+
+        <updated>2022-11-26T13:33:40+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Membership</title>
+        <author>
+            <name>Tapiiri Admin</name>
+        </author>
+        <link href="https://pub.szab.eu/membership.html"/>
+        <id>https://pub.szab.eu/membership.html</id>
+            <category term="Main Pages"/>
+
+        <updated>2022-11-26T13:33:46+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Board</title>
+        <author>
+            <name>Tapiiri Admin</name>
+        </author>
+        <link href="https://pub.szab.eu/board.html"/>
+        <id>https://pub.szab.eu/board.html</id>
+            <category term="Main Pages"/>
+
+        <updated>2022-11-26T13:33:54+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Test Blog Post</title>
         <author>
             <name>Tapiiri Admin</name>
         </author>
         <link href="https://pub.szab.eu/test-post.html"/>
         <id>https://pub.szab.eu/test-post.html</id>
+            <category term="Blog"/>
 
-        <updated>2022-11-26T12:19:25+02:00</updated>
+        <updated>2022-11-26T13:26:45+02:00</updated>
             <summary>
                 <![CDATA[
-                    Hello, this is a test post on my website :-)
+                    Hello, this is a test post on my website :-) Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Hello, this is a test post on my website :-)</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
             ]]>
         </content>
