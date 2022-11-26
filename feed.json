@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Tapiiri",
     "description": "",
-    "home_page_url": "https://pub.szab.eu",
-    "feed_url": "https://pub.szab.eu/feed.json",
+    "home_page_url": "https://szabodanika.github.io/tapiiri",
+    "feed_url": "https://szabodanika.github.io/tapiiri/feed.json",
     "user_comment": "",
-    "icon": "https://pub.szab.eu/media/website/40279747_299098250671513_5145579719227342848_n-2.png",
+    "icon": "https://szabodanika.github.io/tapiiri/media/website/40279747_299098250671513_5145579719227342848_n-2.png",
     "author": {
         "name": "Tapiiri Admin"
     },
     "items": [
         {
-            "id": "https://pub.szab.eu/contact.html",
-            "url": "https://pub.szab.eu/contact.html",
+            "id": "https://szabodanika.github.io/tapiiri/contact.html",
+            "url": "https://szabodanika.github.io/tapiiri/contact.html",
             "title": "Contact",
             "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;",
             "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
@@ -26,8 +26,8 @@
             "date_modified": "2022-11-26T13:33:20+02:00"
         },
         {
-            "id": "https://pub.szab.eu/front-page.html",
-            "url": "https://pub.szab.eu/front-page.html",
+            "id": "https://szabodanika.github.io/tapiiri/front-page.html",
+            "url": "https://szabodanika.github.io/tapiiri/front-page.html",
             "title": "Welcome to Tapiiri",
             "summary": "Hello, welcome to Tapiiri's website :-) Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure&hellip;",
             "content_html": "<p>Hello, welcome to Tapiiri's website :-)</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
@@ -41,11 +41,11 @@
             "date_modified": "2022-11-26T14:11:51+02:00"
         },
         {
-            "id": "https://pub.szab.eu/gallery.html",
-            "url": "https://pub.szab.eu/gallery.html",
+            "id": "https://szabodanika.github.io/tapiiri/gallery.html",
+            "url": "https://szabodanika.github.io/tapiiri/gallery.html",
             "title": "Gallery",
             "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;",
-            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<p> </p>\n<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://pub.szab.eu/media/posts/5/gallery/DSC03151-Large.jpeg\" data-size=\"1280x855\"><img loading=\"lazy\" src=\"https://pub.szab.eu/media/posts/5/gallery/DSC03151-Large-thumbnail.webp\" alt=\"\" width=\"720\" height=\"481\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pub.szab.eu/media/posts/5/gallery/DSC02960-Large.jpeg\" data-size=\"1280x855\"><img loading=\"lazy\" src=\"https://pub.szab.eu/media/posts/5/gallery/DSC02960-Large-thumbnail.webp\" alt=\"\" width=\"720\" height=\"481\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pub.szab.eu/media/posts/5/gallery/DSC02974-Large.jpeg\" data-size=\"1280x855\"><img loading=\"lazy\" src=\"https://pub.szab.eu/media/posts/5/gallery/DSC02974-Large-thumbnail.webp\" alt=\"\" width=\"720\" height=\"481\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pub.szab.eu/media/posts/5/gallery/DSC03195-Large.jpeg\" data-size=\"1280x1024\"><img loading=\"lazy\" src=\"https://pub.szab.eu/media/posts/5/gallery/DSC03195-Large-thumbnail.webp\" alt=\"\" width=\"720\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pub.szab.eu/media/posts/5/gallery/DSC03216-Large.jpeg\" data-size=\"1280x855\"><img loading=\"lazy\" src=\"https://pub.szab.eu/media/posts/5/gallery/DSC03216-Large-thumbnail.webp\" alt=\"\" width=\"720\" height=\"481\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pub.szab.eu/media/posts/5/gallery/DSC02989-Large.jpeg\" data-size=\"1280x855\"><img loading=\"lazy\" src=\"https://pub.szab.eu/media/posts/5/gallery/DSC02989-Large-thumbnail.webp\" alt=\"\" width=\"720\" height=\"481\"></a></figure>\n</div></div>",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<p> </p>\n<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://szabodanika.github.io/tapiiri/media/posts/5/gallery/DSC03151-Large.jpeg\" data-size=\"1280x855\"><img loading=\"lazy\" src=\"https://szabodanika.github.io/tapiiri/media/posts/5/gallery/DSC03151-Large-thumbnail.webp\" alt=\"\" width=\"720\" height=\"481\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://szabodanika.github.io/tapiiri/media/posts/5/gallery/DSC02960-Large.jpeg\" data-size=\"1280x855\"><img loading=\"lazy\" src=\"https://szabodanika.github.io/tapiiri/media/posts/5/gallery/DSC02960-Large-thumbnail.webp\" alt=\"\" width=\"720\" height=\"481\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://szabodanika.github.io/tapiiri/media/posts/5/gallery/DSC02974-Large.jpeg\" data-size=\"1280x855\"><img loading=\"lazy\" src=\"https://szabodanika.github.io/tapiiri/media/posts/5/gallery/DSC02974-Large-thumbnail.webp\" alt=\"\" width=\"720\" height=\"481\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://szabodanika.github.io/tapiiri/media/posts/5/gallery/DSC03195-Large.jpeg\" data-size=\"1280x1024\"><img loading=\"lazy\" src=\"https://szabodanika.github.io/tapiiri/media/posts/5/gallery/DSC03195-Large-thumbnail.webp\" alt=\"\" width=\"720\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://szabodanika.github.io/tapiiri/media/posts/5/gallery/DSC03216-Large.jpeg\" data-size=\"1280x855\"><img loading=\"lazy\" src=\"https://szabodanika.github.io/tapiiri/media/posts/5/gallery/DSC03216-Large-thumbnail.webp\" alt=\"\" width=\"720\" height=\"481\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://szabodanika.github.io/tapiiri/media/posts/5/gallery/DSC02989-Large.jpeg\" data-size=\"1280x855\"><img loading=\"lazy\" src=\"https://szabodanika.github.io/tapiiri/media/posts/5/gallery/DSC02989-Large-thumbnail.webp\" alt=\"\" width=\"720\" height=\"481\"></a></figure>\n</div></div>",
             "author": {
                 "name": "Tapiiri Admin"
             },
@@ -56,8 +56,8 @@
             "date_modified": "2022-11-26T14:44:23+02:00"
         },
         {
-            "id": "https://pub.szab.eu/events.html",
-            "url": "https://pub.szab.eu/events.html",
+            "id": "https://szabodanika.github.io/tapiiri/events.html",
+            "url": "https://szabodanika.github.io/tapiiri/events.html",
             "title": "Events",
             "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;",
             "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
@@ -71,8 +71,8 @@
             "date_modified": "2022-11-26T13:33:40+02:00"
         },
         {
-            "id": "https://pub.szab.eu/membership.html",
-            "url": "https://pub.szab.eu/membership.html",
+            "id": "https://szabodanika.github.io/tapiiri/membership.html",
+            "url": "https://szabodanika.github.io/tapiiri/membership.html",
             "title": "Membership",
             "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;",
             "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
@@ -86,8 +86,8 @@
             "date_modified": "2022-11-26T13:33:46+02:00"
         },
         {
-            "id": "https://pub.szab.eu/board.html",
-            "url": "https://pub.szab.eu/board.html",
+            "id": "https://szabodanika.github.io/tapiiri/board.html",
+            "url": "https://szabodanika.github.io/tapiiri/board.html",
             "title": "Board",
             "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;",
             "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
@@ -101,8 +101,8 @@
             "date_modified": "2022-11-26T13:33:54+02:00"
         },
         {
-            "id": "https://pub.szab.eu/test-post.html",
-            "url": "https://pub.szab.eu/test-post.html",
+            "id": "https://szabodanika.github.io/tapiiri/test-post.html",
+            "url": "https://szabodanika.github.io/tapiiri/test-post.html",
             "title": "Test Blog Post",
             "summary": "Hello, this is a test post on my website :-) Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo&hellip;",
             "content_html": "<p>Hello, this is a test post on my website :-)</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n",

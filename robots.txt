@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://pub.szab.eu/sitemap.xml
+Sitemap: https://szabodanika.github.io/tapiiri/sitemap.xml
